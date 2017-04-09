@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PhuongTrinhBac2
 //
-//  Created by Kiet Nguyen on 4/9/17.
-//  Copyright © 2017 Group9_iOSUTE. All rights reserved.
+//  Created by Nhu PHam on 4/9/17.
+//  Copyright © 2017 iOSUTE. All rights reserved.
 //
 
 import UIKit
